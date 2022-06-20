@@ -12,3 +12,22 @@ ___
     - 3 Баг-репортов в Redmine и Google Таблицах
         - [Баг-репорт Redmine](https://github.com/likrid/-/files/8942857/-.Redmine.pdf)
         - [Баг-репорт в гугл таблице](https://github.com/likrid/-/files/8942856/-.-.-.pdf)
+    - 4 Таблицы состояний и диаграмма переходов состояний
+        - [Таблица состояний](https://github.com/likrid/Portfolio/files/8942983/default.pdf)
+        - [Диаграмма переходов](https://github.com/likrid/Portfolio/files/8942985/default.pdf)
+    - 5 Таблицы решений и попарного тестирования
+        - [Таблица решений](https://github.com/likrid/Portfolio/files/8943066/default.pdf)
+        - [Попарное тестирование](https://github.com/likrid/Portfolio/files/8943067/default.pdf)
+    - 6 Отчета по сессионному тестированию
+        - [Тест-сессия](https://github.com/likrid/Portfolio/files/8943087/-.pdf)
+    - 7 Поэтапного плана тестирования исправленных багов и связанных с ними функционалов
+        - [План тестирования исправленных багов](https://github.com/likrid/Portfolio/files/8943098/default.pdf)
+    - 8 Тест план и майнд карта
+        - [Тест-план](https://github.com/likrid/Portfolio/files/8943125/-.pdf)
+        - [Майнд карта](https://github.com/likrid/Portfolio/files/8943126/-.pdf)
+
+
+
+
+
+
