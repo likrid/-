@@ -26,6 +26,10 @@ ___
         - [Тест-план](https://github.com/likrid/Portfolio/files/8943125/-.pdf)
         - [Майнд карта](https://github.com/likrid/Portfolio/files/8943126/-.pdf)
 
+___
+![image](https://user-images.githubusercontent.com/107875446/175344157-a0a669e1-3196-4843-9a88-d6d6763dcc10.png)
+
+
 
 
 
